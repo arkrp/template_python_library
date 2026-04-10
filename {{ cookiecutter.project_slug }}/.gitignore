@@ -1,0 +1,3 @@
+build
+{{ cookiecutter.project_slug }}.egg-info
+venv
